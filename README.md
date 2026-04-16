@@ -53,3 +53,7 @@ Access with `/admin`.
 
 Access with `/orderupload <password>`.
 Select a city and category, then upload the product photo and delivery data for that order.
+
+## Source Code
+
+https://www.patreon.com/posts/telegram-sales-155348711
